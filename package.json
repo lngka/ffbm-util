@@ -1,0 +1,23 @@
+{
+  "name": "ffbm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"\""
+  },
+  "author": "C. K. Nguyen",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^4.1.1"
+  },
+  "dependencies": {
+    "electron-sudo": "^4.0.12",
+    "sudo-prompt": "^8.2.5"
+  }
+}
